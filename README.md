@@ -1,2 +1,1 @@
-Hello, Hexlet! How are you?
-# hexlet-git
+no code no pain
