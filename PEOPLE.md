@@ -1,3 +1,2 @@
 Haskel Curry
-its funny
-Dmitry is my love
+Dmitry, I love you
